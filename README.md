@@ -1,6 +1,6 @@
-<h1 align="center">Youssef Elshabasy here 👋</h1>
+<h1 align="center">Youssef Elshabasy Here 👋</h1>
 
-## Programming Arsenal
+<h2 align="center">Programming Arsenal</h2>
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
