@@ -14,3 +14,6 @@
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
 
 [![.NET](https://github-readme-stats.vercel.app/api?username={Juke-Duke}&theme=blue-green)](https://dotnet.microsoft.com/en-us/)
+
+## Stats
+<p><img src="hhttps://github-readme-stats.vercel.app/api?username=juke-duke&theme=blue-green" alt="cxyfreedom" /></p>
