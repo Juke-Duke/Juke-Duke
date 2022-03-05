@@ -16,4 +16,4 @@
 [![.NET](https://github-readme-stats.vercel.app/api?username={Juke-Duke}&theme=blue-green)](https://dotnet.microsoft.com/en-us/)
 
 ## Stats
-<p><img src="hhttps://github-readme-stats.vercel.app/api?username=juke-duke&theme=blue-green" alt="cxyfreedom" /></p>
+<p><img src="hhttps://github-readme-stats.vercel.app/api?username=Juke-Duke&theme=blue-green" /></p>
