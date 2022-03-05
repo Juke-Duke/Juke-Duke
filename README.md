@@ -12,3 +12,5 @@
 
 ## Framework Armory
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+
+https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
