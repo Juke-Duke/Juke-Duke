@@ -14,4 +14,4 @@
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
 
 ## Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=jukeduke&theme=blue-green" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=juke-duke&theme=blue-green" /></p>
