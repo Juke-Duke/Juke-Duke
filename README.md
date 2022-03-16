@@ -15,4 +15,4 @@
 
 ## Stat Points
 <p><img src="https://github-readme-stats.vercel.app/api?username=juke-duke&theme=blue-green" /></p
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juke-duke)](https://github.com/chen1571/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juke-duke)](https://github.com/juke-duke/github-readme-stats)
