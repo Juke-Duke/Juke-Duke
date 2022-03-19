@@ -15,6 +15,6 @@
 
 ## Stat Points
 <div>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=juke-duke&theme=blue-green" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juke-duke" /><p>
+  <img src="https://github-readme-stats.vercel.app/api?username=juke-duke&theme=blue-green" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juke-duke" />
 </div>
