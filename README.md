@@ -1,5 +1,7 @@
 <h1 align="center">Youssef Elshabasy Here 👋</h1>
 
+ RPG/Fantasy fanatic with the skillset of C++, C#, and Python in my hands.
+
 ## Arsenal
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
