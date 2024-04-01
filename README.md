@@ -4,7 +4,6 @@
     <img src="https://badge.techforpalestine.org/default"/>
   </a>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=juke-duke&theme=blue-green" style="height:234px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juke-duke&theme=dark" style="height:234px"/>
   </div>
 </div>
